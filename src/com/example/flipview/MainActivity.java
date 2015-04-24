@@ -27,6 +27,8 @@ public class MainActivity extends Activity {
 				case MotionEvent.ACTION_MOVE:
 					break;
 				case MotionEvent.ACTION_UP:
+					System.out.println("DSDFWETRWET");
+					
 					break;
 				}
 				return false;
